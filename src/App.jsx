@@ -14,15 +14,17 @@ function App() {
       </div>
       <h1>Fase 5_Operar_Grupo 04</h1>
       <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
         <p>
-          Edit <code>src/App.jsx</code> and save to test HMR
+          <h1>Integrantes</h1>
+          <h2>Rafael Gustavo Guillen Mendoza</h2>
+          <h3>Camilo De Jesus Martinez Carrillo</h3>
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        <h6>&copy; 2023 Derechos de Autor</h6>
+        <h6><a href="/Correo: rgguillenm@unadvirtual.edu.co">Correo: rgguillenm@unadvirtual.edu.co</a></h6>
+        <h6><a href="/Skype:https://join.skype.com/invite/usgra6lv5aMh">https://join.skype.com/invite/usgra6lv5aMh</a></h6>
+        <h6><a href="/Fecha">Fecha: 28/05/2023</a></h6>
       </p>
     </>
   )
