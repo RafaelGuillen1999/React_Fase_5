@@ -19,7 +19,7 @@ function App() {
           <h2>Rafael Gustavo Guillen Mendoza</h2>
           <h3>Camilo De Jesus Martinez Carrillo</h3>
 
-          <h5><a href="index.html">Clic para ir al proyecto </a></h5>
+          <h5><a href="inicio.html">Clic para ir al proyecto </a></h5>
         </p>
       </div>
       <p className="read-the-docs">
